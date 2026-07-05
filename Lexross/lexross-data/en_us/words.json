@@ -1,0 +1,85 @@
+{
+  "palavras": [
+    {
+      "id": "en_01",
+      "texto": "SUN",
+      "dica": "The star at the center of our Solar System.",
+      "categoria": "cat_natureza",
+      "idioma": "en_us",
+      "imagemKey": "img_sun",
+      "dificuldade": 1
+    },
+    {
+      "id": "en_02",
+      "texto": "CAT",
+      "dica": "A small domesticated carnivorous mammal.",
+      "categoria": "cat_animais",
+      "idioma": "en_us",
+      "imagemKey": "img_cat",
+      "dificuldade": 1
+    },
+    {
+      "id": "en_03",
+      "texto": "DOG",
+      "dica": "Man's best friend.",
+      "categoria": "cat_animais",
+      "idioma": "en_us",
+      "imagemKey": "img_dog",
+      "dificuldade": 1
+    },
+    {
+      "id": "en_04",
+      "texto": "TREE",
+      "dica": "A woody perennial plant with a single stem or trunk.",
+      "categoria": "cat_natureza",
+      "idioma": "en_us",
+      "imagemKey": "img_tree",
+      "dificuldade": 2
+    },
+    {
+      "id": "en_05",
+      "texto": "BOOK",
+      "dica": "A written or printed work consisting of pages glued together.",
+      "categoria": "cat_objetos",
+      "idioma": "en_us",
+      "imagemKey": "img_book",
+      "dificuldade": 2
+    },
+    {
+      "id": "en_06",
+      "texto": "FISH",
+      "dica": "A limbless cold-blooded vertebrate animal with gills.",
+      "categoria": "cat_animais",
+      "idioma": "en_us",
+      "imagemKey": "img_fish",
+      "dificuldade": 2
+    },
+    {
+      "id": "en_07",
+      "texto": "COFFEE",
+      "dica": "A hot drink made from the roasted and ground seeds of a tropical shrub.",
+      "categoria": "cat_alimentos",
+      "idioma": "en_us",
+      "imagemKey": "img_coffee",
+      "dificuldade": 3
+    },
+    {
+      "id": "en_08",
+      "texto": "FLOWER",
+      "dica": "The seed-bearing part of a plant, consisting of reproductive organs.",
+      "categoria": "cat_natureza",
+      "idioma": "en_us",
+      "imagemKey": "img_flower",
+      "dificuldade": 3
+    },
+    {
+      "id": "en_09",
+      "texto": "PLANET",
+      "dica": "A celestial body moving in an elliptical orbit around a star.",
+      "categoria": "cat_natureza",
+      "idioma": "en_us",
+      "imagemKey": "img_planet",
+      "dificuldade": 3
+    }
+  ]
+}

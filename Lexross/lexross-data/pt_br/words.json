@@ -1,0 +1,85 @@
+{
+  "palavras": [
+    {
+      "id": "pt_01",
+      "texto": "SOL",
+      "dica": "Estrela central do nosso sistema planetário.",
+      "categoria": "cat_natureza",
+      "idioma": "pt_br",
+      "imagemKey": "img_sol",
+      "dificuldade": 1
+    },
+    {
+      "id": "pt_02",
+      "texto": "MAR",
+      "dica": "Grande massa de água salgada.",
+      "categoria": "cat_natureza",
+      "idioma": "pt_br",
+      "imagemKey": "img_mar",
+      "dificuldade": 1
+    },
+    {
+      "id": "pt_03",
+      "texto": "CEU",
+      "dica": "Espaço visível acima da Terra onde ficam as nuvens.",
+      "categoria": "cat_natureza",
+      "idioma": "pt_br",
+      "imagemKey": "img_ceu",
+      "dificuldade": 1
+    },
+    {
+      "id": "pt_04",
+      "texto": "GATO",
+      "dica": "Pequeno mamífero carnívoro doméstico.",
+      "categoria": "cat_animais",
+      "idioma": "pt_br",
+      "imagemKey": "img_gato",
+      "dificuldade": 2
+    },
+    {
+      "id": "pt_05",
+      "texto": "CASA",
+      "dica": "Lugar construído para se morar.",
+      "categoria": "cat_objetos",
+      "idioma": "pt_br",
+      "imagemKey": "img_casa",
+      "dificuldade": 2
+    },
+    {
+      "id": "pt_06",
+      "texto": "MAÇA",
+      "dica": "Fruta de casca vermelha ou verde, muito associada a Newton.",
+      "categoria": "cat_alimentos",
+      "idioma": "pt_br",
+      "imagemKey": "img_maca",
+      "dificuldade": 2
+    },
+    {
+      "id": "pt_07",
+      "texto": "FLORESTA",
+      "dica": "Grande extensão de terra coberta de árvores.",
+      "categoria": "cat_natureza",
+      "idioma": "pt_br",
+      "imagemKey": "img_floresta",
+      "dificuldade": 3
+    },
+    {
+      "id": "pt_08",
+      "texto": "CORAÇÃO",
+      "dica": "Órgão muscular que bombeia o sangue.",
+      "categoria": "cat_anatomia",
+      "idioma": "pt_br",
+      "imagemKey": "img_coracao",
+      "dificuldade": 3
+    },
+    {
+      "id": "pt_09",
+      "texto": "GIRASSOL",
+      "dica": "Flor amarela que segue a trajetória do sol.",
+      "categoria": "cat_natureza",
+      "idioma": "pt_br",
+      "imagemKey": "img_girassol",
+      "dificuldade": 3
+    }
+  ]
+}
