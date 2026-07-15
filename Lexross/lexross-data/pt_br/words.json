@@ -3,7 +3,7 @@
     {
       "id": "pt_01",
       "texto": "SOL",
-      "dica": "Estrela central do nosso sistema planetÃ¡rio.",
+      "dica": "Estrela central do nosso sistema planetário.",
       "categoria": "cat_natureza",
       "idioma": "pt_br",
       "imagemKey": "img_sol",
@@ -12,7 +12,7 @@
     {
       "id": "pt_02",
       "texto": "MAR",
-      "dica": "Grande massa de Ã¡gua salgada.",
+      "dica": "Grande massa de água salgada.",
       "categoria": "cat_natureza",
       "idioma": "pt_br",
       "imagemKey": "img_mar",
@@ -21,7 +21,7 @@
     {
       "id": "pt_03",
       "texto": "CEU",
-      "dica": "EspaÃ§o visÃ­vel acima da Terra onde ficam as nuvens.",
+      "dica": "Espaço visível acima da Terra onde ficam as nuvens.",
       "categoria": "cat_natureza",
       "idioma": "pt_br",
       "imagemKey": "img_ceu",
@@ -30,7 +30,7 @@
     {
       "id": "pt_04",
       "texto": "GATO",
-      "dica": "Pequeno mamÃ­fero carnÃ­voro domÃ©stico.",
+      "dica": "Pequeno mamífero carnívoro doméstico.",
       "categoria": "cat_animais",
       "idioma": "pt_br",
       "imagemKey": "img_gato",
@@ -39,7 +39,7 @@
     {
       "id": "pt_05",
       "texto": "CASA",
-      "dica": "Lugar construÃ­do para se morar.",
+      "dica": "Lugar construído para se morar.",
       "categoria": "cat_objetos",
       "idioma": "pt_br",
       "imagemKey": "img_casa",
@@ -47,7 +47,7 @@
     },
     {
       "id": "pt_06",
-      "texto": "MAÃ‡A",
+      "texto": "MAÇA",
       "dica": "Fruta de casca vermelha ou verde, muito associada a Newton.",
       "categoria": "cat_alimentos",
       "idioma": "pt_br",
@@ -57,7 +57,7 @@
     {
       "id": "pt_07",
       "texto": "FLORESTA",
-      "dica": "Grande extensÃ£o de terra coberta de Ã¡rvores.",
+      "dica": "Grande extensão de terra coberta de árvores.",
       "categoria": "cat_natureza",
       "idioma": "pt_br",
       "imagemKey": "img_floresta",
@@ -65,8 +65,8 @@
     },
     {
       "id": "pt_08",
-      "texto": "CORAÃ‡ÃƒO",
-      "dica": "Ã“rgÃ£o muscular que bombeia o sangue.",
+      "texto": "CORAÇÃO",
+      "dica": "Órgão muscular que bombeia o sangue.",
       "categoria": "cat_anatomia",
       "idioma": "pt_br",
       "imagemKey": "img_coracao",
@@ -75,10 +75,280 @@
     {
       "id": "pt_09",
       "texto": "GIRASSOL",
-      "dica": "Flor amarela que segue a trajetÃ³ria do sol.",
+      "dica": "Flor amarela que segue a trajetória do sol.",
       "categoria": "cat_natureza",
       "idioma": "pt_br",
       "imagemKey": "img_girassol",
+      "dificuldade": 3
+    },
+    {
+      "id": "pt_10",
+      "texto": "RIO",
+      "dica": "Curso de água natural que corre em direção ao mar ou a outro rio.",
+      "categoria": "cat_natureza",
+      "idioma": "pt_br",
+      "imagemKey": "img_rio",
+      "dificuldade": 1
+    },
+    {
+      "id": "pt_11",
+      "texto": "MEL",
+      "dica": "Substância doce e viscosa produzida pelas abelhas.",
+      "categoria": "cat_alimentos",
+      "idioma": "pt_br",
+      "imagemKey": "img_mel",
+      "dificuldade": 1
+    },
+    {
+      "id": "pt_12",
+      "texto": "PAO",
+      "dica": "Alimento básico feito de farinha, água e fermento.",
+      "categoria": "cat_alimentos",
+      "idioma": "pt_br",
+      "imagemKey": "img_pao",
+      "dificuldade": 1
+    },
+    {
+      "id": "pt_13",
+      "texto": "CAO",
+      "dica": "O melhor amigo do homem.",
+      "categoria": "cat_animais",
+      "idioma": "pt_br",
+      "imagemKey": "img_cao",
+      "dificuldade": 1
+    },
+    {
+      "id": "pt_14",
+      "texto": "UVA",
+      "dica": "Fruta pequena e redonda que cresce em cachos, usada para fazer vinho.",
+      "categoria": "cat_alimentos",
+      "idioma": "pt_br",
+      "imagemKey": "img_uva",
+      "dificuldade": 1
+    },
+    {
+      "id": "pt_15",
+      "texto": "PENA",
+      "dica": "Cobertura externa do corpo das aves.",
+      "categoria": "cat_anatomia",
+      "idioma": "pt_br",
+      "imagemKey": "img_pena",
+      "dificuldade": 1
+    },
+    {
+      "id": "pt_16",
+      "texto": "LAGO",
+      "dica": "Grande extensão de água cercada por terra.",
+      "categoria": "cat_natureza",
+      "idioma": "pt_br",
+      "imagemKey": "img_lago",
+      "dificuldade": 1
+    },
+    {
+      "id": "pt_17",
+      "texto": "BOLA",
+      "dica": "Objeto esférico usado na maioria dos esportes.",
+      "categoria": "cat_objetos",
+      "idioma": "pt_br",
+      "imagemKey": "img_bola",
+      "dificuldade": 1
+    },
+    {
+      "id": "pt_18",
+      "texto": "CHAVE",
+      "dica": "Instrumento de metal usado para abrir fechaduras.",
+      "categoria": "cat_objetos",
+      "idioma": "pt_br",
+      "imagemKey": "img_chave",
+      "dificuldade": 2
+    },
+    {
+      "id": "pt_19",
+      "texto": "LIVRO",
+      "dica": "Conjunto de folhas de papel impressas e encadernadas.",
+      "categoria": "cat_objetos",
+      "idioma": "pt_br",
+      "imagemKey": "img_livro",
+      "dificuldade": 2
+    },
+    {
+      "id": "pt_20",
+      "texto": "CEBOLA",
+      "dica": "Hortaliça de casca fina e várias camadas que costuma fazer chorar.",
+      "categoria": "cat_alimentos",
+      "idioma": "pt_br",
+      "imagemKey": "img_cebola",
+      "dificuldade": 2
+    },
+    {
+      "id": "pt_21",
+      "texto": "COPO",
+      "dica": "Recipiente usado para beber líquidos.",
+      "categoria": "cat_objetos",
+      "idioma": "pt_br",
+      "imagemKey": "img_copo",
+      "dificuldade": 2
+    },
+    {
+      "id": "pt_22",
+      "texto": "CACHORRO",
+      "dica": "Mamífero canídeo doméstico companheiro e leal.",
+      "categoria": "cat_animais",
+      "idioma": "pt_br",
+      "imagemKey": "img_cachorro",
+      "dificuldade": 2
+    },
+    {
+      "id": "pt_23",
+      "texto": "BANANA",
+      "dica": "Fruta amarela, alongada e rica em potássio.",
+      "categoria": "cat_alimentos",
+      "idioma": "pt_br",
+      "imagemKey": "img_banana",
+      "dificuldade": 2
+    },
+    {
+      "id": "pt_24",
+      "texto": "DENTE",
+      "dica": "Estrutura dura na boca usada para mastigar alimentos.",
+      "categoria": "cat_anatomia",
+      "idioma": "pt_br",
+      "imagemKey": "img_dente",
+      "dificuldade": 2
+    },
+    {
+      "id": "pt_25",
+      "texto": "CANETA",
+      "dica": "Objeto usado para escrever ou desenhar com tinta.",
+      "categoria": "cat_objetos",
+      "idioma": "pt_br",
+      "imagemKey": "img_caneta",
+      "dificuldade": 2
+    },
+    {
+      "id": "pt_26",
+      "texto": "MEDICO",
+      "dica": "Profissional da saúde responsável por tratar doentes.",
+      "categoria": "cat_profissoes",
+      "idioma": "pt_br",
+      "imagemKey": "img_medico",
+      "dificuldade": 2
+    },
+    {
+      "id": "pt_27",
+      "texto": "CELULAR",
+      "dica": "Aparelho portátil usado para comunicação e navegação na internet.",
+      "categoria": "cat_tecnologia",
+      "idioma": "pt_br",
+      "imagemKey": "img_celular",
+      "dificuldade": 2
+    },
+    {
+      "id": "pt_28",
+      "texto": "PLANETA",
+      "dica": "Corpo celeste que orbita uma estrela, como a Terra.",
+      "categoria": "cat_natureza",
+      "idioma": "pt_br",
+      "imagemKey": "img_planeta",
+      "dificuldade": 2
+    },
+    {
+      "id": "pt_29",
+      "texto": "FUTEBOL",
+      "dica": "Esporte jogado com os pés onde duas equipes tentam marcar gols.",
+      "categoria": "cat_objetos",
+      "idioma": "pt_br",
+      "imagemKey": "img_futebol",
+      "dificuldade": 2
+    },
+    {
+      "id": "pt_30",
+      "texto": "COMPUTADOR",
+      "dica": "Máquina eletrônica usada para processar dados e navegar na web.",
+      "categoria": "cat_tecnologia",
+      "idioma": "pt_br",
+      "imagemKey": "img_computador",
+      "dificuldade": 3
+    },
+    {
+      "id": "pt_31",
+      "texto": "ELEFANTE",
+      "dica": "O maior mamífero terrestre, conhecido por sua longa tromba.",
+      "categoria": "cat_animais",
+      "idioma": "pt_br",
+      "imagemKey": "img_elefante",
+      "dificuldade": 3
+    },
+    {
+      "id": "pt_32",
+      "texto": "BORBOLETA",
+      "dica": "Inseto voador com asas coloridas que passa por metamorfose.",
+      "categoria": "cat_animais",
+      "idioma": "pt_br",
+      "imagemKey": "img_borboleta",
+      "dificuldade": 3
+    },
+    {
+      "id": "pt_33",
+      "texto": "TELEVISAO",
+      "dica": "Aparelho que transmite imagens e som à distância.",
+      "categoria": "cat_tecnologia",
+      "idioma": "pt_br",
+      "imagemKey": "img_televisao",
+      "dificuldade": 3
+    },
+    {
+      "id": "pt_34",
+      "texto": "ESQUELETO",
+      "dica": "Conjunto de ossos que sustenta o corpo humano ou animal.",
+      "categoria": "cat_anatomia",
+      "idioma": "pt_br",
+      "imagemKey": "img_esqueleto",
+      "dificuldade": 3
+    },
+    {
+      "id": "pt_35",
+      "texto": "CHOCOLATE",
+      "dica": "Doce feito a partir do cacau, muito consumido na Páscoa.",
+      "categoria": "cat_alimentos",
+      "idioma": "pt_br",
+      "imagemKey": "img_chocolate",
+      "dificuldade": 3
+    },
+    {
+      "id": "pt_36",
+      "texto": "ASTRONAUTA",
+      "dica": "Profissional treinado para viajar ao espaço sideral.",
+      "categoria": "cat_profissoes",
+      "idioma": "pt_br",
+      "imagemKey": "img_astronauta",
+      "dificuldade": 3
+    },
+    {
+      "id": "pt_37",
+      "texto": "ESTRELA",
+      "dica": "Corpo celeste luminoso visível no céu noturno.",
+      "categoria": "cat_natureza",
+      "idioma": "pt_br",
+      "imagemKey": "img_estrela",
+      "dificuldade": 2
+    },
+    {
+      "id": "pt_38",
+      "texto": "BICICLETA",
+      "dica": "Veículo de duas rodas movido pelo esforço dos pedais.",
+      "categoria": "cat_objetos",
+      "idioma": "pt_br",
+      "imagemKey": "img_bicicleta",
+      "dificuldade": 3
+    },
+    {
+      "id": "pt_39",
+      "texto": "PULMAO",
+      "dica": "Órgão do sistema respiratório responsável pelas trocas gasosas.",
+      "categoria": "cat_anatomia",
+      "idioma": "pt_br",
+      "imagemKey": "img_pulmao",
       "dificuldade": 3
     }
   ]
