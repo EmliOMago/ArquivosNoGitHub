@@ -80,6 +80,3111 @@
       "idioma": "en_us",
       "imagemKey": "img_planet",
       "dificuldade": 3
-    }
+    },
+{
+  "id": "en_010",
+  "texto": "ACE",
+  "dica": "The highest-value card in many card games.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_011",
+  "texto": "ACT",
+  "dica": "Something that is done or performed.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_012",
+  "texto": "ADD",
+  "dica": "To combine numbers or quantities.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_013",
+  "texto": "AGE",
+  "dica": "The number of years someone has lived.",
+  "categoria": "cat_pessoas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_014",
+  "texto": "AIR",
+  "dica": "The invisible mixture of gases we breathe.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_10",
+  "texto": "ACE",
+  "dica": "The highest-value card in many card games.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_11",
+  "texto": "ACT",
+  "dica": "Something that is done or performed.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_12",
+  "texto": "ADD",
+  "dica": "To combine numbers or quantities.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_13",
+  "texto": "AGE",
+  "dica": "The number of years someone has lived.",
+  "categoria": "cat_pessoas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_14",
+  "texto": "AID",
+  "dica": "Help or assistance given to someone.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_15",
+  "texto": "AIM",
+  "dica": "A purpose or the act of pointing at a target.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_16",
+  "texto": "AIR",
+  "dica": "The invisible mixture of gases we breathe.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_17",
+  "texto": "ANT",
+  "dica": "A small insect that lives in colonies.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_18",
+  "texto": "APE",
+  "dica": "A primate without a tail.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_19",
+  "texto": "ARM",
+  "dica": "The upper limb of the human body.",
+  "categoria": "cat_corpo",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_20",
+  "texto": "ART",
+  "dica": "Creative expression through skill and imagination.",
+  "categoria": "cat_cultura",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_21",
+  "texto": "ASH",
+  "dica": "The powder left after something burns.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_22",
+  "texto": "AWE",
+  "dica": "A feeling of wonder and respect.",
+  "categoria": "cat_sentimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_23",
+  "texto": "AXE",
+  "dica": "A tool used for chopping wood.",
+  "categoria": "cat_ferramentas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_24",
+  "texto": "BAD",
+  "dica": "Not good.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_25",
+  "texto": "BAG",
+  "dica": "A container used to carry items.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_26",
+  "texto": "BAR",
+  "dica": "A long solid piece or a place serving drinks.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_27",
+  "texto": "BAT",
+  "dica": "A flying mammal that is active at night.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_28",
+  "texto": "BAY",
+  "dica": "A body of water partly surrounded by land.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_29",
+  "texto": "BED",
+  "dica": "Furniture used for sleeping.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_30",
+  "texto": "BEE",
+  "dica": "A flying insect known for making honey.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_31",
+  "texto": "BET",
+  "dica": "To risk money on an uncertain outcome.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_32",
+  "texto": "BIG",
+  "dica": "Large in size.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_33",
+  "texto": "BIN",
+  "dica": "A container used for storage or waste.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_34",
+  "texto": "BIT",
+  "dica": "A small piece or amount of something.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_35",
+  "texto": "BOAT",
+  "dica": "A vehicle used for traveling on water.",
+  "categoria": "cat_transportes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_36",
+  "texto": "BOG",
+  "dica": "Soft, wet ground with thick mud.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_37",
+  "texto": "BON",
+  "dica": "Good, in some borrowed expressions.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 3
+},
+{
+  "id": "en_38",
+  "texto": "BOY",
+  "dica": "A young male child.",
+  "categoria": "cat_pessoas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_39",
+  "texto": "BOX",
+  "dica": "A container with flat sides.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_40",
+  "texto": "BUG",
+  "dica": "A small insect.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_41",
+  "texto": "BUN",
+  "dica": "A small round bread roll.",
+  "categoria": "cat_alimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_42",
+  "texto": "BUS",
+  "dica": "A large vehicle for carrying passengers.",
+  "categoria": "cat_transportes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_43",
+  "texto": "BUY",
+  "dica": "To purchase something.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_44",
+  "texto": "CAB",
+  "dica": "A taxi or the driver's compartment of a vehicle.",
+  "categoria": "cat_transportes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_45",
+  "texto": "CAN",
+  "dica": "A metal container for food or drinks.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_46",
+  "texto": "CAP",
+  "dica": "A soft hat with a visor.",
+  "categoria": "cat_vestuarios",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_47",
+  "texto": "CAR",
+  "dica": "A road vehicle with four wheels.",
+  "categoria": "cat_transportes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_48",
+  "texto": "CARE",
+  "dica": "Serious attention or concern.",
+  "categoria": "cat_sentimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_49",
+  "texto": "CART",
+  "dica": "A vehicle used for carrying goods.",
+  "categoria": "cat_transportes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_50",
+  "texto": "CAT",
+  "dica": "A small domesticated feline.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_51",
+  "texto": "COD",
+  "dica": "A popular edible saltwater fish.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_52",
+  "texto": "COP",
+  "dica": "An informal word for a police officer.",
+  "categoria": "cat_profissoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_53",
+  "texto": "COW",
+  "dica": "A farm animal raised for milk or beef.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_54",
+  "texto": "CRY",
+  "dica": "To shed tears because of emotion or pain.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_55",
+  "texto": "CUP",
+  "dica": "A small container used for drinking.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_56",
+  "texto": "CUT",
+  "dica": "To divide something with a sharp tool.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_57",
+  "texto": "DAM",
+  "dica": "A barrier built to hold back water.",
+  "categoria": "cat_construcoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_58",
+  "texto": "DAY",
+  "dica": "A period of twenty-four hours.",
+  "categoria": "cat_tempo",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_59",
+  "texto": "DEN",
+  "dica": "The home of certain wild animals.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_60",
+  "texto": "DIG",
+  "dica": "To break up soil with a tool or hands.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_61",
+  "texto": "DIM",
+  "dica": "Not bright or well lit.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_62",
+  "texto": "DIP",
+  "dica": "To lower briefly into a liquid.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_63",
+  "texto": "DOG",
+  "dica": "A domesticated animal often kept as a pet.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_64",
+  "texto": "DOT",
+  "dica": "A very small round mark.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_65",
+  "texto": "DRY",
+  "dica": "Free from water or moisture.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_66",
+  "texto": "DUG",
+  "dica": "Past tense of dig.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_67",
+  "texto": "DYE",
+  "dica": "A substance used to change color.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_68",
+  "texto": "EAR",
+  "dica": "The organ used for hearing.",
+  "categoria": "cat_corpo",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_69",
+  "texto": "EAT",
+  "dica": "To consume food.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_70",
+  "texto": "EEL",
+  "dica": "A long, snake-like fish.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_71",
+  "texto": "EGG",
+  "dica": "An oval object laid by birds and some reptiles.",
+  "categoria": "cat_alimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_72",
+  "texto": "ELK",
+  "dica": "A large deer with impressive antlers.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_73",
+  "texto": "ELM",
+  "dica": "A tall deciduous tree.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_74",
+  "texto": "END",
+  "dica": "The final part of something.",
+  "categoria": "cat_conceitos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_75",
+  "texto": "ERA",
+  "dica": "A long period of history.",
+  "categoria": "cat_tempo",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_76",
+  "texto": "EVE",
+  "dica": "The evening before an important day.",
+  "categoria": "cat_tempo",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_77",
+  "texto": "EYE",
+  "dica": "The organ used for seeing.",
+  "categoria": "cat_corpo",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_78",
+  "texto": "FAN",
+  "dica": "A device that moves air.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_79",
+  "texto": "FAR",
+  "dica": "At a great distance.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_80",
+  "texto": "FAT",
+  "dica": "Having a large amount of body fat.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_81",
+  "texto": "FED",
+  "dica": "Past tense of feed.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_82",
+  "texto": "FEE",
+  "dica": "A payment charged for a service.",
+  "categoria": "cat_dinheiro",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_83",
+  "texto": "FEW",
+  "dica": "A small number of.",
+  "categoria": "cat_quantidade",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_84",
+  "texto": "FIG",
+  "dica": "A soft, sweet fruit.",
+  "categoria": "cat_alimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_85",
+  "texto": "FIN",
+  "dica": "A body part that helps fish swim.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_86",
+  "texto": "FIR",
+  "dica": "A cone-bearing evergreen tree.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_87",
+  "texto": "FIT",
+  "dica": "To be the correct size or shape.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_88",
+  "texto": "FIX",
+  "dica": "To repair something.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_89",
+  "texto": "FLY",
+  "dica": "To move through the air using wings.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_90",
+  "texto": "FOE",
+  "dica": "An enemy or opponent.",
+  "categoria": "cat_pessoas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_91",
+  "texto": "FOG",
+  "dica": "A thick cloud close to the ground.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_92",
+  "texto": "FOX",
+  "dica": "A wild mammal known for its cleverness.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_93",
+  "texto": "FUN",
+  "dica": "Enjoyment or amusement.",
+  "categoria": "cat_conceitos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_94",
+  "texto": "FUR",
+  "dica": "The thick hair covering some animals.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_95",
+  "texto": "GAP",
+  "dica": "An empty space between two things.",
+  "categoria": "cat_conceitos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_96",
+  "texto": "GAS",
+  "dica": "A substance like air that has no fixed shape.",
+  "categoria": "cat_ciencia",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_97",
+  "texto": "GEM",
+  "dica": "A precious or semi-precious stone.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_98",
+  "texto": "GET",
+  "dica": "To receive or obtain something.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_99",
+  "texto": "GIN",
+  "dica": "A clear alcoholic drink flavored with juniper.",
+  "categoria": "cat_bebidas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_100",
+  "texto": "GOD",
+  "dica": "A supreme divine being in many religions.",
+  "categoria": "cat_religiao",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_101",
+  "texto": "GUN",
+  "dica": "A weapon that fires bullets.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_102",
+  "texto": "GUT",
+  "dica": "The stomach or intestines.",
+  "categoria": "cat_corpo",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_103",
+  "texto": "GYM",
+  "dica": "A place where people exercise.",
+  "categoria": "cat_locais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_104",
+  "texto": "HAD",
+  "dica": "Past tense of have.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_105",
+  "texto": "HAM",
+  "dica": "Meat from the upper part of a pig's leg.",
+  "categoria": "cat_alimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_106",
+  "texto": "HAT",
+  "dica": "Something worn on the head.",
+  "categoria": "cat_vestuarios",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_107",
+  "texto": "HAY",
+  "dica": "Dried grass used as animal feed.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_108",
+  "texto": "HEN",
+  "dica": "An adult female chicken.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_109",
+  "texto": "HER",
+  "dica": "Used to refer to a female person or animal.",
+  "categoria": "cat_gramatica",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_110",
+  "texto": "HID",
+  "dica": "Past tense of hide.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_111",
+  "texto": "HIP",
+  "dica": "The joint between the leg and the body.",
+  "categoria": "cat_corpo",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_112",
+  "texto": "HIT",
+  "dica": "To strike something.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_113",
+  "texto": "HOG",
+  "dica": "A large domesticated pig.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_114",
+  "texto": "HOP",
+  "dica": "To jump lightly.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_115",
+  "texto": "HOT",
+  "dica": "Having a high temperature.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_116",
+  "texto": "HUB",
+  "dica": "The central part of something.",
+  "categoria": "cat_conceitos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_117",
+  "texto": "HUG",
+  "dica": "To hold someone closely with your arms.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_118",
+  "texto": "HUT",
+  "dica": "A small simple shelter.",
+  "categoria": "cat_construcoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_119",
+  "texto": "ICE",
+  "dica": "Frozen water.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_120",
+  "texto": "INK",
+  "dica": "Colored liquid used for writing or printing.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_121",
+  "texto": "INN",
+  "dica": "A small hotel or roadside lodging.",
+  "categoria": "cat_locais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_122",
+  "texto": "JAM",
+  "dica": "A sweet fruit spread.",
+  "categoria": "cat_alimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_123",
+  "texto": "JAR",
+  "dica": "A container usually made of glass.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_124",
+  "texto": "JAW",
+  "dica": "The bones that hold the teeth.",
+  "categoria": "cat_corpo",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_125",
+  "texto": "JET",
+  "dica": "A fast aircraft powered by jet engines.",
+  "categoria": "cat_transportes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_126",
+  "texto": "JOB",
+  "dica": "Regular paid work.",
+  "categoria": "cat_profissoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_127",
+  "texto": "JOG",
+  "dica": "To run at a slow, steady pace.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_128",
+  "texto": "JOY",
+  "dica": "A feeling of great happiness.",
+  "categoria": "cat_sentimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_129",
+  "texto": "KEY",
+  "dica": "A tool used to open a lock.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_130",
+  "texto": "KID",
+  "dica": "A young child.",
+  "categoria": "cat_pessoas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_131",
+  "texto": "KIN",
+  "dica": "Family members or relatives.",
+  "categoria": "cat_pessoas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_132",
+  "texto": "KIT",
+  "dica": "A set of tools or supplies for a specific purpose.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_133",
+  "texto": "LAB",
+  "dica": "A place where scientific experiments are performed.",
+  "categoria": "cat_locais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_134",
+  "texto": "LAD",
+  "dica": "A young boy.",
+  "categoria": "cat_pessoas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_135",
+  "texto": "LAG",
+  "dica": "To fall behind or move slowly.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_136",
+  "texto": "LAM",
+  "dica": "To strike or hit forcefully.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 3
+},
+{
+  "id": "en_137",
+  "texto": "LAP",
+  "dica": "The upper part of the legs when sitting.",
+  "categoria": "cat_corpo",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_138",
+  "texto": "LAW",
+  "dica": "A rule established by authority.",
+  "categoria": "cat_conceitos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_139",
+  "texto": "LAY",
+  "dica": "To place something down.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_140",
+  "texto": "LEA",
+  "dica": "An open grassy meadow.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 3
+},
+{
+  "id": "en_141",
+  "texto": "LED",
+  "dica": "Past tense of lead.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_142",
+  "texto": "LEG",
+  "dica": "A limb used for standing and walking.",
+  "categoria": "cat_corpo",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_143",
+  "texto": "LID",
+  "dica": "A cover placed on top of a container.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_144",
+  "texto": "LIE",
+  "dica": "To rest in a flat position.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_145",
+  "texto": "LIP",
+  "dica": "Either of the two soft edges of the mouth.",
+  "categoria": "cat_corpo",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_146",
+  "texto": "LOG",
+  "dica": "The trunk or a large branch of a tree.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_147",
+  "texto": "LOT",
+  "dica": "A piece of land or a large quantity.",
+  "categoria": "cat_conceitos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_148",
+  "texto": "LOW",
+  "dica": "Near the ground or of small height.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_149",
+  "texto": "MAP",
+  "dica": "A drawing that shows the features of an area.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_150",
+  "texto": "MAN",
+  "dica": "An adult male person.",
+  "categoria": "cat_pessoas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_151",
+  "texto": "MAP",
+  "dica": "A drawing that shows the features of an area.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_152",
+  "texto": "MAT",
+  "dica": "A piece of material placed on the floor or a surface.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_153",
+  "texto": "MAY",
+  "dica": "To have permission or possibility.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_154",
+  "texto": "MEN",
+  "dica": "More than one adult male person.",
+  "categoria": "cat_pessoas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_155",
+  "texto": "MIX",
+  "dica": "To combine different things together.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_156",
+  "texto": "MOB",
+  "dica": "A large disorderly crowd of people.",
+  "categoria": "cat_pessoas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_157",
+  "texto": "MOP",
+  "dica": "A tool used to clean floors.",
+  "categoria": "cat_ferramentas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_158",
+  "texto": "MUD",
+  "dica": "Soft, wet earth.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_159",
+  "texto": "MUG",
+  "dica": "A large cup used for hot drinks.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_160",
+  "texto": "NAP",
+  "dica": "A short period of sleep.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_161",
+  "texto": "NET",
+  "dica": "A mesh used to catch or hold things.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_162",
+  "texto": "NOD",
+  "dica": "To move the head up and down.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_163",
+  "texto": "NUT",
+  "dica": "A hard-shelled edible seed.",
+  "categoria": "cat_alimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_164",
+  "texto": "OAK",
+  "dica": "A strong hardwood tree.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_165",
+  "texto": "OAR",
+  "dica": "A pole used to row a boat.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_166",
+  "texto": "OIL",
+  "dica": "A thick liquid obtained from plants, animals, or the ground.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_167",
+  "texto": "OWL",
+  "dica": "A bird of prey that hunts mainly at night.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_168",
+  "texto": "PAN",
+  "dica": "A metal container used for cooking.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_169",
+  "texto": "PAW",
+  "dica": "The foot of an animal with claws or pads.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_170",
+  "texto": "PAD",
+  "dica": "A soft cushion or protective layer.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_171",
+  "texto": "PAL",
+  "dica": "A close friend.",
+  "categoria": "cat_pessoas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_172",
+  "texto": "PEA",
+  "dica": "A small round green vegetable.",
+  "categoria": "cat_alimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_173",
+  "texto": "PEG",
+  "dica": "A small pin used for fastening or hanging objects.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_174",
+  "texto": "PEN",
+  "dica": "A tool used for writing with ink.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_175",
+  "texto": "PET",
+  "dica": "An animal kept for companionship.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_176",
+  "texto": "PIE",
+  "dica": "A baked dish with a pastry crust.",
+  "categoria": "cat_alimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_177",
+  "texto": "PIG",
+  "dica": "A farm animal raised for meat.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_178",
+  "texto": "PIN",
+  "dica": "A small pointed object used for fastening.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_179",
+  "texto": "PIT",
+  "dica": "A large hole in the ground.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_180",
+  "texto": "POD",
+  "dica": "A seed case of certain plants.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_181",
+  "texto": "POP",
+  "dica": "To burst with a short sharp sound.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_182",
+  "texto": "POT",
+  "dica": "A deep round container used for cooking.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_183",
+  "texto": "PRO",
+  "dica": "A person who performs an activity professionally.",
+  "categoria": "cat_profissoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_184",
+  "texto": "PUB",
+  "dica": "A place where alcoholic drinks are served.",
+  "categoria": "cat_locais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_185",
+  "texto": "PUP",
+  "dica": "A young dog.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_186",
+  "texto": "RAG",
+  "dica": "A piece of old cloth used for cleaning.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_187",
+  "texto": "RAM",
+  "dica": "An adult male sheep.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_188",
+  "texto": "RAT",
+  "dica": "A small rodent with a long tail.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_189",
+  "texto": "RAW",
+  "dica": "Not cooked or processed.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_190",
+  "texto": "RED",
+  "dica": "The color of fire trucks and many roses.",
+  "categoria": "cat_cores",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_191",
+  "texto": "RIB",
+  "dica": "One of the curved bones in the chest.",
+  "categoria": "cat_corpo",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_192",
+  "texto": "RID",
+  "dica": "To remove or free from something unwanted.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_193",
+  "texto": "RIG",
+  "dica": "Special equipment used for a particular purpose.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_194",
+  "texto": "RIM",
+  "dica": "The outer edge of a circular object.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_195",
+  "texto": "RIP",
+  "dica": "To tear something apart.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_196",
+  "texto": "ROD",
+  "dica": "A long, thin, straight bar.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_197",
+  "texto": "ROE",
+  "dica": "Fish eggs used as food.",
+  "categoria": "cat_alimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_198",
+  "texto": "ROT",
+  "dica": "To decay naturally over time.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_199",
+  "texto": "ROW",
+  "dica": "A straight line of people or objects.",
+  "categoria": "cat_conceitos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_200",
+  "texto": "RUB",
+  "dica": "To move something back and forth against a surface.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_201",
+  "texto": "RUG",
+  "dica": "A thick piece of fabric placed on the floor.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_202",
+  "texto": "RUN",
+  "dica": "To move quickly on foot.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_203",
+  "texto": "RYE",
+  "dica": "A cereal grain used for bread and whiskey.",
+  "categoria": "cat_alimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_204",
+  "texto": "SAD",
+  "dica": "Feeling unhappy.",
+  "categoria": "cat_sentimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_205",
+  "texto": "SAG",
+  "dica": "To sink or bend downward.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_206",
+  "texto": "SAP",
+  "dica": "The liquid that flows inside a plant.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_207",
+  "texto": "SAT",
+  "dica": "Past tense of sit.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_208",
+  "texto": "SAW",
+  "dica": "A tool with a toothed blade used for cutting.",
+  "categoria": "cat_ferramentas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_209",
+  "texto": "SEA",
+  "dica": "A large body of salt water.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_210",
+  "texto": "SEE",
+  "dica": "To perceive with the eyes.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_211",
+  "texto": "SEW",
+  "dica": "To join fabric using a needle and thread.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_212",
+  "texto": "SHY",
+  "dica": "Nervous or uncomfortable around other people.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_213",
+  "texto": "SIN",
+  "dica": "An act considered morally wrong.",
+  "categoria": "cat_religiao",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_214",
+  "texto": "SIP",
+  "dica": "To drink something in small amounts.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_215",
+  "texto": "SIR",
+  "dica": "A respectful form of address for a man.",
+  "categoria": "cat_pessoas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_216",
+  "texto": "SIT",
+  "dica": "To rest with the body supported by the hips.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_217",
+  "texto": "SIX",
+  "dica": "The number after five.",
+  "categoria": "cat_numeros",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_218",
+  "texto": "SKI",
+  "dica": "To travel over snow using long narrow runners.",
+  "categoria": "cat_esportes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_219",
+  "texto": "SKY",
+  "dica": "The region above the Earth where clouds appear.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_220",
+  "texto": "SLY",
+  "dica": "Clever in a secretive or dishonest way.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_221",
+  "texto": "SON",
+  "dica": "A male child in relation to his parents.",
+  "categoria": "cat_pessoas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_222",
+  "texto": "SOW",
+  "dica": "To plant seeds in the ground.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_223",
+  "texto": "SPA",
+  "dica": "A place where health and beauty treatments are offered.",
+  "categoria": "cat_locais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_224",
+  "texto": "SPY",
+  "dica": "A person who secretly gathers information.",
+  "categoria": "cat_profissoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_225",
+  "texto": "SUN",
+  "dica": "The star at the center of our Solar System.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_226",
+  "texto": "TAB",
+  "dica": "A small projecting piece used for pulling or holding.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_227",
+  "texto": "TAG",
+  "dica": "A label attached to identify something.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_228",
+  "texto": "TAN",
+  "dica": "A light brown color or skin darkened by the sun.",
+  "categoria": "cat_cores",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_229",
+  "texto": "TAP",
+  "dica": "To strike gently with a quick movement.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_230",
+  "texto": "TEA",
+  "dica": "A hot drink made by steeping leaves in water.",
+  "categoria": "cat_bebidas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_231",
+  "texto": "TEN",
+  "dica": "The number after nine.",
+  "categoria": "cat_numeros",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_232",
+  "texto": "TIN",
+  "dica": "A soft silvery metal.",
+  "categoria": "cat_materiais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_233",
+  "texto": "TIP",
+  "dica": "A useful piece of advice.",
+  "categoria": "cat_conceitos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_234",
+  "texto": "TOE",
+  "dica": "One of the digits on a foot.",
+  "categoria": "cat_corpo",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_235",
+  "texto": "TON",
+  "dica": "A unit of weight.",
+  "categoria": "cat_medidas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_236",
+  "texto": "TOY",
+  "dica": "An object made for children to play with.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_237",
+  "texto": "TRY",
+  "dica": "To make an attempt.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_238",
+  "texto": "TUB",
+  "dica": "A large container used for washing or bathing.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_239",
+  "texto": "TUG",
+  "dica": "To pull with force.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_240",
+  "texto": "URN",
+  "dica": "A decorative container, often used for ashes.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_241",
+  "texto": "USE",
+  "dica": "To employ something for a purpose.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_242",
+  "texto": "VAN",
+  "dica": "A vehicle used to transport people or goods.",
+  "categoria": "cat_transportes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_243",
+  "texto": "VAT",
+  "dica": "A large container used to hold liquids.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_244",
+  "texto": "VET",
+  "dica": "A doctor who treats animals.",
+  "categoria": "cat_profissoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_245",
+  "texto": "VOW",
+  "dica": "A serious promise.",
+  "categoria": "cat_conceitos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_246",
+  "texto": "WAR",
+  "dica": "A conflict between nations or groups.",
+  "categoria": "cat_historia",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_247",
+  "texto": "WAX",
+  "dica": "A substance used for candles and polishing.",
+  "categoria": "cat_materiais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_248",
+  "texto": "WEB",
+  "dica": "A spider's woven trap or the World Wide Web.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_249",
+  "texto": "WET",
+  "dica": "Covered with water or another liquid.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_250",
+  "texto": "WHO",
+  "dica": "What person or people.",
+  "categoria": "cat_gramatica",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_251",
+  "texto": "WHY",
+  "dica": "For what reason.",
+  "categoria": "cat_gramatica",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_252",
+  "texto": "WIN",
+  "dica": "To achieve victory.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_253",
+  "texto": "WIN",
+  "dica": "To succeed in a competition.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_254",
+  "texto": "WIT",
+  "dica": "The ability to think and speak cleverly.",
+  "categoria": "cat_conceitos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_255",
+  "texto": "WOK",
+  "dica": "A deep round pan used in Asian cooking.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_256",
+  "texto": "WON",
+  "dica": "Past tense of win.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_257",
+  "texto": "WOO",
+  "dica": "To seek the affection of someone.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_258",
+  "texto": "WOO",
+  "dica": "To try to gain support or favor.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_259",
+  "texto": "YAK",
+  "dica": "A long-haired wild or domesticated ox.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_260",
+  "texto": "YAM",
+  "dica": "A tropical root vegetable.",
+  "categoria": "cat_alimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_261",
+  "texto": "YAP",
+  "dica": "To bark in a sharp, high-pitched way.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_262",
+  "texto": "YAW",
+  "dica": "To turn away from the intended direction.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 3
+},
+{
+  "id": "en_263",
+  "texto": "YEN",
+  "dica": "The official currency of Japan.",
+  "categoria": "cat_dinheiro",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_264",
+  "texto": "YET",
+  "dica": "Up to the present time.",
+  "categoria": "cat_gramatica",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_265",
+  "texto": "YOU",
+  "dica": "The person being addressed.",
+  "categoria": "cat_gramatica",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_266",
+  "texto": "ZIP",
+  "dica": "A fastener with interlocking teeth.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_267",
+  "texto": "ZOO",
+  "dica": "A place where animals are kept for public viewing.",
+  "categoria": "cat_locais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_268",
+  "texto": "ZAP",
+  "dica": "To destroy or affect with sudden force or energy.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_269",
+  "texto": "ZIG",
+  "dica": "A sharp turn in one direction.",
+  "categoria": "cat_conceitos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 3
+},
+{
+  "id": "en_270",
+  "texto": "ACE",
+  "dica": "The highest-ranking card in many card games.",
+  "categoria": "cat_jogos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_271",
+  "texto": "AID",
+  "dica": "Help or assistance given to someone.",
+  "categoria": "cat_conceitos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_272",
+  "texto": "ALE",
+  "dica": "A type of beer brewed with top-fermenting yeast.",
+  "categoria": "cat_bebidas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_273",
+  "texto": "ANT",
+  "dica": "A small social insect that lives in colonies.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_274",
+  "texto": "APE",
+  "dica": "A primate without a tail.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_275",
+  "texto": "ASH",
+  "dica": "The powder left after something burns.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_276",
+  "texto": "AWE",
+  "dica": "A feeling of great respect and wonder.",
+  "categoria": "cat_sentimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_277",
+  "texto": "AWK",
+  "dica": "An old word meaning 'awkward' or 'backward'.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 3
+},
+{
+  "id": "en_278",
+  "texto": "AXE",
+  "dica": "A tool used for chopping wood.",
+  "categoria": "cat_ferramentas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_279",
+  "texto": "BAD",
+  "dica": "Not good.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_280",
+  "texto": "BAG",
+  "dica": "A container made of flexible material.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_281",
+  "texto": "BAN",
+  "dica": "An official prohibition.",
+  "categoria": "cat_conceitos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_282",
+  "texto": "BAR",
+  "dica": "A place where drinks are served.",
+  "categoria": "cat_locais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_283",
+  "texto": "BAT",
+  "dica": "A flying mammal active at night.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_284",
+  "texto": "BAY",
+  "dica": "A part of the sea partly enclosed by land.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_285",
+  "texto": "BED",
+  "dica": "A piece of furniture used for sleeping.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_286",
+  "texto": "BEE",
+  "dica": "An insect that produces honey.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_287",
+  "texto": "BET",
+  "dica": "To risk money on the outcome of an event.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_288",
+  "texto": "BIB",
+  "dica": "A cloth worn to protect clothing while eating.",
+  "categoria": "cat_vestuarios",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_289",
+  "texto": "BIG",
+  "dica": "Large in size.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_290",
+  "texto": "BIN",
+  "dica": "A container used to store or dispose of items.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_291",
+  "texto": "BIT",
+  "dica": "A small piece or amount of something.",
+  "categoria": "cat_conceitos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_292",
+  "texto": "BOA",
+  "dica": "A large nonvenomous snake.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_293",
+  "texto": "BOG",
+  "dica": "Wet, muddy ground.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_294",
+  "texto": "BON",
+  "dica": "A traditional Japanese festival.",
+  "categoria": "cat_cultura",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 3
+},
+{
+  "id": "en_295",
+  "texto": "BOO",
+  "dica": "To express disapproval with a loud shout.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_296",
+  "texto": "BOT",
+  "dica": "A software program that performs automated tasks.",
+  "categoria": "cat_tecnologia",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_297",
+  "texto": "BOW",
+  "dica": "To bend the upper body as a sign of respect.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_298",
+  "texto": "BOX",
+  "dica": "A container with flat sides.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_299",
+  "texto": "BOY",
+  "dica": "A male child.",
+  "categoria": "cat_pessoas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_300",
+  "texto": "BUD",
+  "dica": "A young flower or leaf before it opens.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_301",
+  "texto": "BUG",
+  "dica": "A small insect.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_302",
+  "texto": "BUN",
+  "dica": "A small round bread roll.",
+  "categoria": "cat_alimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_303",
+  "texto": "BUS",
+  "dica": "A large vehicle used to transport passengers.",
+  "categoria": "cat_transportes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_304",
+  "texto": "BUT",
+  "dica": "Used to introduce a contrast.",
+  "categoria": "cat_gramatica",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_305",
+  "texto": "BUY",
+  "dica": "To obtain something by paying money.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_306",
+  "texto": "CAB",
+  "dica": "A taxi or the driver's compartment of a vehicle.",
+  "categoria": "cat_transportes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_307",
+  "texto": "CAN",
+  "dica": "A metal container used to store food or drinks.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_308",
+  "texto": "CAP",
+  "dica": "A hat with a visor.",
+  "categoria": "cat_vestuarios",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_309",
+  "texto": "CAR",
+  "dica": "A road vehicle with four wheels used for transportation.",
+  "categoria": "cat_transportes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_310",
+  "texto": "CAT",
+  "dica": "A small domesticated feline.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_311",
+  "texto": "CAW",
+  "dica": "The harsh cry made by a crow.",
+  "categoria": "cat_sons",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_312",
+  "texto": "CLY",
+  "dica": "An old word meaning a sheltered corner.",
+  "categoria": "cat_natureza",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 3
+},
+{
+  "id": "en_313",
+  "texto": "COB",
+  "dica": "The central core of an ear of corn.",
+  "categoria": "cat_alimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_314",
+  "texto": "COG",
+  "dica": "A toothed wheel in a machine.",
+  "categoria": "cat_ferramentas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_315",
+  "texto": "CON",
+  "dica": "To deceive or trick someone.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_316",
+  "texto": "COO",
+  "dica": "The soft sound made by a dove.",
+  "categoria": "cat_sons",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_317",
+  "texto": "COT",
+  "dica": "A small portable bed.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_318",
+  "texto": "COY",
+  "dica": "Shy in a playful or affected way.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_319",
+  "texto": "CUB",
+  "dica": "A young bear, lion, or other wild animal.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_320",
+  "texto": "CUE",
+  "dica": "A signal to begin an action.",
+  "categoria": "cat_conceitos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_321",
+  "texto": "CUR",
+  "dica": "A mixed-breed dog, often used for hunting.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 3
+},
+{
+  "id": "en_322",
+  "texto": "DAB",
+  "dica": "To touch something lightly.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_323",
+  "texto": "DOE",
+  "dica": "An adult female deer.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_324",
+  "texto": "DON",
+  "dica": "To put on clothing.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_325",
+  "texto": "DON",
+  "dica": "A Spanish title of respect.",
+  "categoria": "cat_pessoas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 3
+},
+{
+  "id": "en_326",
+  "texto": "DOW",
+  "dica": "A female domesticated rabbit.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 3
+},
+{
+  "id": "en_327",
+  "texto": "DUB",
+  "dica": "To give a name or title to.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_328",
+  "texto": "DUE",
+  "dica": "Expected or required at a certain time.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_329",
+  "texto": "DUO",
+  "dica": "A pair of people or things.",
+  "categoria": "cat_conceitos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_330",
+  "texto": "ABLE",
+  "dica": "Having the skill or power to do something.",
+  "categoria": "cat_adjetivos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_331",
+  "texto": "ACID",
+  "dica": "A substance with a low pH.",
+  "categoria": "cat_ciencia",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_332",
+  "texto": "ARCH",
+  "dica": "A curved structure spanning an opening.",
+  "categoria": "cat_construcoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_333",
+  "texto": "AREA",
+  "dica": "A particular region or surface.",
+  "categoria": "cat_conceitos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_334",
+  "texto": "ARMY",
+  "dica": "A nation's organized military force.",
+  "categoria": "cat_profissoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_335",
+  "texto": "ATOM",
+  "dica": "The smallest unit of a chemical element.",
+  "categoria": "cat_ciencia",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_336",
+  "texto": "AUNT",
+  "dica": "The sister of one's parent.",
+  "categoria": "cat_pessoas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_337",
+  "texto": "AUTO",
+  "dica": "A car or motor vehicle.",
+  "categoria": "cat_transportes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_338",
+  "texto": "BABY",
+  "dica": "A very young child.",
+  "categoria": "cat_pessoas",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_339",
+  "texto": "BACK",
+  "dica": "The rear part of the body.",
+  "categoria": "cat_corpo",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_340",
+  "texto": "BAKE",
+  "dica": "To cook food using dry heat.",
+  "categoria": "cat_acoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_341",
+  "texto": "BALL",
+  "dica": "A round object used in games and sports.",
+  "categoria": "cat_esportes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_342",
+  "texto": "BANK",
+  "dica": "A financial institution.",
+  "categoria": "cat_locais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_343",
+  "texto": "BARN",
+  "dica": "A farm building for storing crops or animals.",
+  "categoria": "cat_construcoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_344",
+  "texto": "BASE",
+  "dica": "The bottom support of something.",
+  "categoria": "cat_conceitos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_345",
+  "texto": "BEAK",
+  "dica": "The hard mouth of a bird.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_346",
+  "texto": "BEAM",
+  "dica": "A long sturdy piece of wood or metal.",
+  "categoria": "cat_construcoes",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 2
+},
+{
+  "id": "en_347",
+  "texto": "BEAN",
+  "dica": "An edible seed from a legume.",
+  "categoria": "cat_alimentos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_348",
+  "texto": "BEAR",
+  "dica": "A large wild mammal with thick fur.",
+  "categoria": "cat_animais",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+},
+{
+  "id": "en_349",
+  "texto": "BELL",
+  "dica": "A hollow object that rings when struck.",
+  "categoria": "cat_objetos",
+  "idioma": "en_us",
+  "imagemKey": "",
+  "dificuldade": 1
+}
   ]
 }
